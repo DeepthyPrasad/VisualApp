@@ -8,10 +8,8 @@ to know the major affecting factors for the rent in a particular region or for a
 type of apartment.
 
 ## IoT Architecture 
-
-![IoT Architecure (2)](https://user-images.githubusercontent.com/89976319/149640052-5e48a16c-92c8-4ec4-96eb-83600c13a998.jpg)
+![image](https://user-images.githubusercontent.com/89976319/149640126-713f4993-cca3-4b5d-b54f-0f2da1fbf8a6.png)
 
 ## App Preview
-
 ![image](https://user-images.githubusercontent.com/89976319/149640088-16dd0c4e-8d65-4cfc-bcf6-e32f9ce97e45.png)
 
